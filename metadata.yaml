@@ -1,0 +1,31 @@
+_repo: The-Bookbinder-in-Eighteenth-Century-Williamsburg-An-Account-of-his-Life-Times-of-his-Craft_57609
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Sanford, C. Clement
+    gutenberg_agent_id: '49501'
+    url: http://www.gutenberg.org/2009/agents/49501
+  - agent_name: II, John M. Hemphill
+    gutenberg_agent_id: '49502'
+    url: http://www.gutenberg.org/2009/agents/49502
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2018-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Bookbinder in Eighteenth-Century Williamsburg
+
+  An Account of his Life & Times, & of his Craft'
+url: http://www.gutenberg.org/ebooks/57609
